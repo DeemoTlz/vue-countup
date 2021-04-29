@@ -7,8 +7,14 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "license": "DeemoTlz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeemoTlz/vue-countup.git"
+  },
   "dependencies": {
     "core-js": "^3.11.0",
+    "countup.js": "^2.0.7",
     "vue": "^2.6.12"
   },
   "devDependencies": {
